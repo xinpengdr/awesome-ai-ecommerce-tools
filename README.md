@@ -17,10 +17,10 @@
 
 ### AI Search Engines (GEO)
 
-- [Google AI Mode](https://blog.google/products/search/) - Google's AI-powered search experience that triggers on ~14% of shopping queries. [Optimization guide](https://www.vozai.net/en/seo/multi-ai-search-seo-unified-strategy/) | [Native checkout guide](https://www.vozai.net/en/seo/google-ai-mode-native-checkout-guide/) | [AI Shopping changes](https://www.vozai.net/en/seo/google-ai-shopping-ecommerce-seo/)
-- [Perplexity Shopping](https://www.perplexity.ai/) - AI search engine with direct price comparison and product cards. [Optimization guide](https://www.vozai.net/en/seo/perplexity-shopping-optimization-guide/) | [Try-On GEO playbook](https://www.vozai.net/en/seo/perplexity-try-on-apparel-geo/)
+- [Google AI Mode](https://blog.google/products/search/) - Google's AI-powered search experience that triggers on ~14% of shopping queries. [Optimization guide](https://www.vozai.net/en/seo/multi-ai-search-seo-unified-strategy/) | [Native checkout guide](https://www.vozai.net/en/seo/google-ai-mode-native-checkout-guide/) | [AI Shopping changes](https://www.vozai.net/en/seo/google-ai-shopping-ecommerce-seo/) | [Gemini + Circle to Search + 50B SKUs feed audit](https://www.vozai.net/en/seo/google-ai-mode-gemini-circle-search-50b-graph/)
+- [Perplexity Shopping](https://www.perplexity.ai/) - AI search engine with direct price comparison and product cards. [Optimization guide](https://www.vozai.net/en/seo/perplexity-shopping-optimization-guide/) | [Try-On GEO playbook](https://www.vozai.net/en/seo/perplexity-try-on-apparel-geo/) | [Comet vs Amazon merchant playbook](https://www.vozai.net/en/seo/perplexity-comet-amazon-ninth-circuit-merchant-playbook/)
 - [Amazon Rufus](https://www.amazon.com/) - Amazon's in-app AI shopping assistant, used by 250M+ shoppers. [Optimization guide](https://www.vozai.net/en/seo/amazon-rufus-optimization-guide/)
-- [ChatGPT Search](https://chat.openai.com/) - OpenAI's conversational search with product citations. [How to get cited](https://www.vozai.net/en/seo/geo-for-ai-search-citations/)
+- [ChatGPT Search](https://chat.openai.com/) - OpenAI's conversational search with product citations. [How to get cited](https://www.vozai.net/en/seo/geo-for-ai-search-citations/) | [ChatGPT shopping pivot to discovery](https://www.vozai.net/en/seo/chatgpt-shopping-pivot-product-discovery-dtc-visibility/)
 
 ### SEO Tools
 
@@ -76,7 +76,7 @@
 
 ### Email Platforms
 
-- [Klaviyo](https://www.klaviyo.com/) - E-commerce email/SMS platform with AI-powered segmentation and automation. [Klaviyo Composer AI](https://www.vozai.net/en/email-crm/klaviyo-composer-ai-agent-campaigns/) | [Spring 2026 updates](https://www.vozai.net/en/email-crm/klaviyo-spring-2026-rcs-ai-audience/) | [Klaviyo vs Mailchimp vs Omnisend](https://www.vozai.net/en/tool-comparisons/ai-email-marketing-tools/)
+- [Klaviyo](https://www.klaviyo.com/) - E-commerce email/SMS platform with AI-powered segmentation and automation. [Klaviyo Composer AI](https://www.vozai.net/en/email-crm/klaviyo-composer-ai-agent-campaigns/) | [Spring 2026 updates](https://www.vozai.net/en/email-crm/klaviyo-spring-2026-rcs-ai-audience/) | [Klaviyo vs Mailchimp vs Omnisend](https://www.vozai.net/en/tool-comparisons/ai-email-marketing-tools/) | [Klaviyo × Anthropic Claude agentic workflows](https://www.vozai.net/en/email-crm/klaviyo-anthropic-claude-agentic-email-workflows/)
 - [Omnisend](https://www.omnisend.com/) - E-commerce marketing automation. [Klaviyo vs Omnisend vs Brevo](https://www.vozai.net/en/tool-comparisons/klaviyo-omnisend-brevo-ai-email-platforms-2026/)
 - [Brevo](https://www.brevo.com/) - Email, SMS, and chat marketing platform. [2026 email platform comparison](https://www.vozai.net/en/tool-comparisons/klaviyo-omnisend-brevo-ai-email-platforms-2026/)
 - [Mailchimp](https://mailchimp.com/) - Email marketing platform with AI features. [Klaviyo vs Mailchimp AI](https://www.vozai.net/en/tool-comparisons/klaviyo-vs-mailchimp-ai-features/)
@@ -135,6 +135,7 @@
 
 - [GPT-5.4 vs Claude 4.6 vs Gemini 3.1 for e-commerce](https://www.vozai.net/en/tool-comparisons/gpt5-vs-claude4-vs-gemini3-ecommerce/) - Head-to-head benchmark for e-commerce tasks
 - [2026 AI marketing stack](https://www.vozai.net/en/tool-comparisons/ai-ecommerce-marketing-stack-2026/) - Complete AI tool stack for e-commerce marketing
+- [Claude Code weekly limit +50% sprint plan](https://www.vozai.net/en/tool-comparisons/claude-code-weekly-limit-boost-ecommerce-workflows/) - 8-week batch task list for cross-border DTC teams (May 13 to July 13, 2026)
 
 ## Product Photography & Video
 
@@ -203,6 +204,9 @@
 - [Agentic commerce protocols: UCP vs ACP vs Shopify Catalog](https://www.vozai.net/en/seo/agentic-commerce-protocols-ucp-acp-catalog/) - Protocol comparison for AI shopping agents
 - [Google Universal Commerce Protocol](https://www.vozai.net/en/seo/google-ucp-ai-shopping-protocol/) - Google's standard for AI-readable product data
 - [Is your product data ready for AI?](https://www.vozai.net/en/seo/agentic-commerce-seo-product-feeds/) - Product feed optimization for agentic commerce
+- [Amazon Bedrock AgentCore Payments](https://www.vozai.net/en/tool-comparisons/amazon-bedrock-agentcore-payments-ecommerce/) - Pricing your merchant API for the agent economy (MCP, REST, ACP, UCP integration paths)
+- [Perplexity Comet vs Amazon: Ninth Circuit hearing](https://www.vozai.net/en/seo/perplexity-comet-amazon-ninth-circuit-merchant-playbook/) - Merchant playbook for the May 15, 2026 federal hearing on buyer-side AI agents
+- [ChatGPT shopping pivot to discovery](https://www.vozai.net/en/seo/chatgpt-shopping-pivot-product-discovery-dtc-visibility/) - DTC visibility playbook after OpenAI pulled back from Instant Checkout
 
 ### AI Customer Service
 
