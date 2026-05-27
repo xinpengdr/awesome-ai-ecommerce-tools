@@ -144,6 +144,7 @@
 
 - [Photoroom](https://www.photoroom.com/) - Industry-leading AI background removal and product photography. [AI photography tools comparison](https://www.vozai.net/en/tool-comparisons/ai-product-photography-tools-comparison/)
 - [Pebblely](https://www.pebblely.com/) - AI product photography with scene generation. [Tools comparison](https://www.vozai.net/en/tool-comparisons/ai-product-photography-tools-comparison/)
+- [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged product/brand photos — repairs scratches, fading, and colorizes B&W archives.
 - [Claid.ai](https://claid.ai/) - AI image enhancement and background generation. [Tools comparison](https://www.vozai.net/en/tool-comparisons/ai-product-photography-tools-comparison/)
 - [Amazon Dynamic Canvas](https://sellercentral.amazon.com/) - Free AI visual workspace inside Amazon Seller Central. [Tutorial](https://www.vozai.net/en/ads-copy/amazon-dynamic-canvas-ai-listing-visuals/)
 - [Shopify Tinker](https://www.shopify.com/) - Shopify's free AI creative suite. [Tinker vs Canva comparison](https://www.vozai.net/en/tool-comparisons/shopify-tinker-ai-creative-suite/)
