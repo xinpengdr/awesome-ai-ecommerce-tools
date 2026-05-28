@@ -18,10 +18,11 @@
 ### AI Search Engines (GEO)
 
 - [Google AI Mode](https://blog.google/products/search/) - Google's AI-powered search experience that triggers on ~14% of shopping queries. [Optimization guide](https://www.vozai.net/en/seo/multi-ai-search-seo-unified-strategy/) | [Native checkout guide](https://www.vozai.net/en/seo/google-ai-mode-native-checkout-guide/) | [AI Shopping changes](https://www.vozai.net/en/seo/google-ai-shopping-ecommerce-seo/) | [Gemini + Circle to Search + 50B SKUs feed audit](https://www.vozai.net/en/seo/google-ai-mode-gemini-circle-search-50b-graph/)
-- [Google Merchant Center](https://merchants.google.com/) - Product feed hub for Google Shopping and AI Mode. [Conversational Attributes optimization for AI Mode](https://www.vozai.net/en/seo/google-merchant-center-conversational-attributes/)
+- [Google Merchant Center](https://merchants.google.com/) - Product feed hub for Google Shopping and AI Mode. [Conversational Attributes optimization for AI Mode](https://www.vozai.net/en/seo/google-merchant-center-conversational-attributes/) | [AI performance insights & share of voice (GML 2026)](https://www.vozai.net/en/seo/google-merchant-center-ai-performance-insights-share-of-voice/)
 - [Perplexity Shopping](https://www.perplexity.ai/) - AI search engine with direct price comparison and product cards. [Optimization guide](https://www.vozai.net/en/seo/perplexity-shopping-optimization-guide/) | [Try-On GEO playbook](https://www.vozai.net/en/seo/perplexity-try-on-apparel-geo/) | [Comet vs Amazon merchant playbook](https://www.vozai.net/en/seo/perplexity-comet-amazon-ninth-circuit-merchant-playbook/)
 - [Amazon Rufus](https://www.amazon.com/) - Amazon's in-app AI shopping assistant, used by 250M+ shoppers. [Optimization guide](https://www.vozai.net/en/seo/amazon-rufus-optimization-guide/)
-- [ChatGPT Search](https://chat.openai.com/) - OpenAI's conversational search with product citations. [How to get cited](https://www.vozai.net/en/seo/geo-for-ai-search-citations/) | [ChatGPT shopping pivot to discovery](https://www.vozai.net/en/seo/chatgpt-shopping-pivot-product-discovery-dtc-visibility/)
+- [Amazon Alexa for Shopping](https://www.amazon.com/) - Agentic assistant that replaced Rufus (May 2026), buys on the shopper's behalf incl. cross-retailer "Buy for Me". [Merchant visibility playbook](https://www.vozai.net/en/seo/amazon-alexa-for-shopping-agent-merchant-playbook/)
+- [ChatGPT Search](https://chat.openai.com/) - OpenAI's conversational search with product citations. [How to get cited](https://www.vozai.net/en/seo/geo-for-ai-search-citations/) | [ChatGPT shopping pivot to discovery](https://www.vozai.net/en/seo/chatgpt-shopping-pivot-product-discovery-dtc-visibility/) | [GPT-5.5 Instant default & product visibility](https://www.vozai.net/en/seo/gpt-5-5-instant-chatgpt-shopping-visibility/)
 
 ### SEO Tools
 
@@ -57,6 +58,7 @@
 - [Pinterest Performance+](https://business.pinterest.com/) - Pinterest's AI-powered ad campaigns. [Catalog sales & Promote a Pin playbook](https://www.vozai.net/en/ads-copy/pinterest-performance-plus-catalog-promote-pin/)
 - [Walmart Connect](https://www.walmartconnect.com/) - Walmart's advertising platform with AI assistant. [AI Advertising Assistant playbook](https://www.vozai.net/en/ads-copy/walmart-connect-ai-advertising-assistant/)
 - [Smartly.io](https://www.smartly.io/) - AI creative suite for scaling ad production across Meta, Google, and TikTok. [Multi-platform guide](https://www.vozai.net/en/ads-copy/smartly-ai-creative-suite-multi-platform-ads/)
+- [Pacvue Agent](https://pacvue.com/) - AI agent for Amazon retail media with governed execution and plain-language AMC queries. [Governed execution guide](https://www.vozai.net/en/ads-copy/pacvue-agent-amazon-retail-media-governed-execution/)
 
 ### AI Ad Copy Generation
 
@@ -77,7 +79,7 @@
 
 ### Email Platforms
 
-- [Klaviyo](https://www.klaviyo.com/) - E-commerce email/SMS platform with AI-powered segmentation and automation. [Klaviyo Composer AI](https://www.vozai.net/en/email-crm/klaviyo-composer-ai-agent-campaigns/) | [Spring 2026 updates](https://www.vozai.net/en/email-crm/klaviyo-spring-2026-rcs-ai-audience/) | [Klaviyo vs Mailchimp vs Omnisend](https://www.vozai.net/en/tool-comparisons/ai-email-marketing-tools/) | [Klaviyo × Anthropic Claude agentic workflows](https://www.vozai.net/en/email-crm/klaviyo-anthropic-claude-agentic-email-workflows/)
+- [Klaviyo](https://www.klaviyo.com/) - E-commerce email/SMS platform with AI-powered segmentation and automation. [Klaviyo Composer AI](https://www.vozai.net/en/email-crm/klaviyo-composer-ai-agent-campaigns/) | [Spring 2026 updates](https://www.vozai.net/en/email-crm/klaviyo-spring-2026-rcs-ai-audience/) | [Klaviyo vs Mailchimp vs Omnisend](https://www.vozai.net/en/tool-comparisons/ai-email-marketing-tools/) | [Klaviyo × Anthropic Claude agentic workflows](https://www.vozai.net/en/email-crm/klaviyo-anthropic-claude-agentic-email-workflows/) | [Agent Guidance: guardrails for autonomous agents](https://www.vozai.net/en/email-crm/klaviyo-agent-guidance-brand-control-autonomous-crm/)
 - [Omnisend](https://www.omnisend.com/) - E-commerce marketing automation. [Klaviyo vs Omnisend vs Brevo](https://www.vozai.net/en/tool-comparisons/klaviyo-omnisend-brevo-ai-email-platforms-2026/) | [AI Segment Builder natural language guide](https://www.vozai.net/en/email-crm/omnisend-ai-segment-builder-natural-language/)
 - [Brevo](https://www.brevo.com/) - Email, SMS, and chat marketing platform. [2026 email platform comparison](https://www.vozai.net/en/tool-comparisons/klaviyo-omnisend-brevo-ai-email-platforms-2026/)
 - [Mailchimp](https://mailchimp.com/) - Email marketing platform with AI features. [Klaviyo vs Mailchimp AI](https://www.vozai.net/en/tool-comparisons/klaviyo-vs-mailchimp-ai-features/)
@@ -209,6 +211,7 @@
 - [Amazon Bedrock AgentCore Payments](https://www.vozai.net/en/tool-comparisons/amazon-bedrock-agentcore-payments-ecommerce/) - Pricing your merchant API for the agent economy (MCP, REST, ACP, UCP integration paths)
 - [Perplexity Comet vs Amazon: Ninth Circuit hearing](https://www.vozai.net/en/seo/perplexity-comet-amazon-ninth-circuit-merchant-playbook/) - Merchant playbook for the May 15, 2026 federal hearing on buyer-side AI agents
 - [ChatGPT shopping pivot to discovery](https://www.vozai.net/en/seo/chatgpt-shopping-pivot-product-discovery-dtc-visibility/) - DTC visibility playbook after OpenAI pulled back from Instant Checkout
+- [Google Pay BNPL & UCP checkout on YouTube](https://www.vozai.net/en/ads-copy/google-pay-bnpl-ucp-youtube-checkout-2026/) - Affirm/Klarna in Google Pay, UCP checkout on YouTube Shopping Ads, Universal Cart rollout (GML 2026)
 
 ### AI Customer Service
 
