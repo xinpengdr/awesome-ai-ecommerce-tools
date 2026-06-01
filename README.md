@@ -12,6 +12,7 @@
 - [Fulfillment & Logistics](#fulfillment--logistics)
 - [Marketplace Tools](#marketplace-tools)
 - [Guides & Deep Dives](#guides--deep-dives)
+  - [Analytics & Attribution](#analytics--attribution)
 
 ## SEO & Search Optimization
 
@@ -40,6 +41,7 @@
 
 ### GEO (Generative Engine Optimization)
 
+- [Ahrefs Brand Radar guide](https://www.vozai.net/en/seo/ahrefs-brand-radar-ai-search-visibility-guide/) - Track brand mentions across 260M monthly prompts on 7 AI platforms; custom prompt setup and AI Share of Voice measurement (launched Jan 21, 2026; Grok added Apr 24)
 - [GEO optimization guide](https://www.vozai.net/en/seo/geo-optimization-guide/) - Complete guide to getting cited by AI search engines
 - [GEO content retrofit](https://www.vozai.net/en/seo/geo-content-retrofit/) - 5 steps to retrofit existing content for AI citations
 - [GEO tools comparison](https://www.vozai.net/en/tool-comparisons/geo-tools-comparison-2026/) - Tools for tracking AI search visibility
@@ -58,7 +60,7 @@
 ### Platform-Specific Ad Tools
 
 - [Meta Advantage+](https://www.facebook.com/business/) - Automated ad campaigns with AI creative optimization. [Advantage+ guide](https://www.vozai.net/en/ads-copy/meta-advantage-plus-automated-ads/) | [Image-to-video](https://www.vozai.net/en/ads-copy/meta-advantage-plus-image-to-video-ads/) | [Andromeda targeting](https://www.vozai.net/en/ads-copy/meta-andromeda-ai-ad-targeting/) | [AI Connectors (MCP)](https://www.vozai.net/en/ads-copy/meta-ads-ai-connectors-mcp/) | [2026 Shoptalk updates](https://www.vozai.net/en/ads-copy/meta-advantage-shopping-2026-shoptalk-updates/) | [AI voiceover & subtitles](https://www.vozai.net/en/ads-copy/meta-ai-voiceover-multilingual-video-ads/) | [25-conversion threshold & V25 API sunset](https://www.vozai.net/en/ads-copy/meta-advantage-plus-25-conversions-v25-api/) | [730-day purchase audiences & AI assistant](https://www.vozai.net/en/ads-copy/meta-730-day-purchase-audiences-ai-assistant/)
-- [Google AI Max](https://ads.google.com/) - Google's AI-powered campaign type replacing DSA. [AI Max + PMax A/B testing](https://www.vozai.net/en/ads-copy/google-ai-max-pmax-ab-testing/) | [DSA migration guide](https://www.vozai.net/en/seo/google-dsa-retirement-ai-max-migration/) | [Shopping campaigns setup](https://www.vozai.net/en/ads-copy/google-ai-max-shopping-campaigns-guide/) | [AI Mode shopping ads](https://www.vozai.net/en/ads-copy/google-ai-mode-shopping-ads/) | [Ask Advisor unified AI agent](https://www.vozai.net/en/ads-copy/google-ask-advisor-unified-ads-agent-2026/) | [Conversational Discovery ads in AI Mode](https://www.vozai.net/en/ads-copy/google-ai-mode-conversational-discovery-ads/) | [Asset Studio creative (Veo 3.1 + Nano Banana)](https://www.vozai.net/en/ads-copy/google-asset-studio-veo-nano-banana-ad-creative/)
+- [Google AI Max](https://ads.google.com/) - Google's AI-powered campaign type replacing DSA. [AI Max + PMax A/B testing](https://www.vozai.net/en/ads-copy/google-ai-max-pmax-ab-testing/) | [DSA migration guide](https://www.vozai.net/en/seo/google-dsa-retirement-ai-max-migration/) | [Shopping campaigns setup](https://www.vozai.net/en/ads-copy/google-ai-max-shopping-campaigns-guide/) | [AI Mode shopping ads](https://www.vozai.net/en/ads-copy/google-ai-mode-shopping-ads/) | [Ask Advisor unified AI agent](https://www.vozai.net/en/ads-copy/google-ask-advisor-unified-ads-agent-2026/) | [Conversational Discovery ads in AI Mode](https://www.vozai.net/en/ads-copy/google-ai-mode-conversational-discovery-ads/) | [Asset Studio creative (Veo 3.1 + Nano Banana)](https://www.vozai.net/en/ads-copy/google-asset-studio-veo-nano-banana-ad-creative/) | [AI Brief natural language campaign steering](https://www.vozai.net/en/ads-copy/google-ai-brief-campaign-steering-guide/)
 - [TikTok Shop Ads](https://seller.tiktok.com/) - AI-powered ad tools for TikTok commerce. [GMV Max guide](https://www.vozai.net/en/ads-copy/tiktok-shop-gmv-max-guide/) | [AI video maker](https://www.vozai.net/en/ads-copy/tiktok-shop-ai-listing-video-maker/) | [Search Ads 2026 guide](https://www.vozai.net/en/ads-copy/tiktok-search-ads-2026-guide/) | [TikTok World 2026: GMV Max Pro & Search Hubs](https://www.vozai.net/en/ads-copy/tiktok-world-2026-gmv-max-pro-search-hubs/) | [Ads MCP server for AI agents](https://www.vozai.net/en/ads-copy/tiktok-ads-mcp-server-ai-agent-management/)
 - [ChatGPT Ads](https://chat.openai.com/) - Emerging ad platform inside ChatGPT conversations. [Self-serve guide](https://www.vozai.net/en/ads-copy/chatgpt-ads-self-serve-guide/) | [Product Spotlight](https://www.vozai.net/en/ads-copy/chatgpt-ads-product-spotlight-ecommerce/) | [What it means for e-commerce](https://www.vozai.net/en/ads-copy/chatgpt-ads-ecommerce-opportunity/)
 - [Amazon Ads](https://advertising.amazon.com/) - Amazon's advertising platform. [AI video generator](https://www.vozai.net/en/ads-copy/amazon-ads-ai-video-generator-guide/) | [DSP omnichannel metrics](https://www.vozai.net/en/ads-copy/amazon-dsp-omnichannel-category-metrics/) | [AI agent policy 2026](https://www.vozai.net/en/ads-copy/amazon-ai-agent-policy-2026-compliance/) | [Upfront 2026 video generator & OLV](https://www.vozai.net/en/ads-copy/amazon-upfront-2026-video-generator-olv/)
@@ -123,7 +125,9 @@
 
 ### SMS Marketing
 
+- [Attentive](https://www.attentive.com/) - AI-powered SMS/RCS marketing platform. [Thread 2026: agentic AI & BFCM RCS roadmap](https://www.vozai.net/en/email-crm/attentive-thread-2026-agentic-rcs-bfcm/) | [SMS vs Klaviyo vs Postscript](https://www.vozai.net/en/tool-comparisons/sms-marketing-ai-tools-2026-postscript-attentive-klaviyo/)
 - [SMS marketing AI tools 2026](https://www.vozai.net/en/tool-comparisons/sms-marketing-ai-tools-2026-postscript-attentive-klaviyo/) - Postscript vs Attentive vs Klaviyo for DTC SMS
+- [RCS marketing implementation guide 2026](https://www.vozai.net/en/email-crm/rcs-marketing-dtc-ecommerce-guide-2026/) - Upgrade from SMS to branded rich interactive messages on Klaviyo, Attentive, and Postscript; zero-party data collection via quick-reply buttons
 
 ## AI Writing & Content
 
@@ -167,6 +171,8 @@
 - [Creatify](https://www.creatify.ai/) - URL-to-video ad generation. [UGC tools comparison](https://www.vozai.net/en/tool-comparisons/ai-ugc-video-tools-comparison-2026/)
 - [TikTok Symphony](https://ads.tiktok.com/business/creativecenter/tools/tiktok-symphony/pc/en) - TikTok's AI creative studio powered by Dreamina Seedance 2.0. [Reference to Video tutorial (product visual consistency)](https://www.vozai.net/en/ads-copy/tiktok-symphony-dreamina-reference-to-video/)
 - [TikTok AI Fashion Video Maker](https://seller.tiktok.com/) - Generate shoppable videos from a single product image. [Tutorial](https://www.vozai.net/en/ads-copy/tiktok-shop-ai-listing-video-maker/)
+- [Google Veo 3 in Google Ads](https://ads.google.com/) - Free image-to-video built into Google Ads Asset Studio (rolled out May 6, 2026, all active accounts). [Video ad creation workflow](https://www.vozai.net/en/ads-copy/google-veo3-ads-video-creative-workflow/)
+- [Kling AI 3.0](https://klingai.com/) - AI video with reference-based product consistency across shots and native lip-sync in 5 languages (EN/ZH/JA/KO/ES). [Cross-border multilingual ad video guide](https://www.vozai.net/en/ads-copy/kling-ai-3-multilingual-video-ads-guide/)
 - [AI UGC video ads](https://www.vozai.net/en/ads-copy/ai-ugc-video-ads-ecommerce/) - Skip the creator, keep the conversions with AI-generated UGC
 - [AI virtual hosts for TikTok Shop](https://www.vozai.net/en/ads-copy/ai-virtual-host-tiktok-shop-livestream/) - Zero-barrier AI livestream selling for cross-border brands
 - [TikTok Symphony vs Meta vs Amazon video ads](https://www.vozai.net/en/tool-comparisons/tiktok-symphony-vs-meta-video-vs-amazon-video-ads/) - 2026 AI video ad tool comparison
@@ -228,9 +234,14 @@
 
 ### AI Customer Service
 
+- [Intercom Fin for E-commerce](https://www.intercom.com/) - AI agent that handles pre-purchase discovery and post-purchase support in one conversation thread (launched May 8, 2026; 10% conversation-to-order rate, AOV +20%). [How AI turns support into a sales channel](https://www.vozai.net/en/email-crm/intercom-fin-ecommerce-ai-support-guide/)
 - [AI multilingual chatbot](https://www.vozai.net/en/email-crm/ai-customer-service-multilingual-chatbot/) - Build multilingual support with Tidio, Intercom, and Zendesk
 - [AI customer segmentation](https://www.vozai.net/en/email-crm/ai-customer-segmentation/) - Segment customers with machine learning
 - [eDesk vs Gorgias vs Freshdesk](https://www.vozai.net/en/tool-comparisons/edesk-vs-gorgias-ai-customer-support-2026/) - AI customer support tools for ecommerce compared in 2026
+
+### Analytics & Attribution
+
+- [AI attribution tools comparison 2026](https://www.vozai.net/en/tool-comparisons/ai-attribution-tools-comparison-2026/) - Triple Whale vs Northbeam vs LayerFive: three technical approaches to fixing attribution inflation (25–40% platform overcount vs Shopify orders)
 
 ### Operations
 
