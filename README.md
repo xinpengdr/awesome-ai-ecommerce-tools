@@ -38,6 +38,8 @@
 - [Free technical-SEO audit stack](https://www.vozai.net/en/tool-comparisons/free-technical-seo-audit-stack-indie-sites/) - GSC + Ahrefs Webmaster Tools + Screaming Frog for indie sites
 - [Programmatic SEO content tools for solo builders](https://www.vozai.net/en/tool-comparisons/programmatic-seo-content-tools-solo-dtc-2026/) - Koala vs Byword vs Frase vs Surfer
 - [Reddit monitoring tools (GummySearch alternatives)](https://www.vozai.net/en/tool-comparisons/gummysearch-alternatives-reddit-monitoring-tools-2026/) - F5Bot vs Syften vs Awario for finding customers
+- [NotebookLM free tier for competitor research](https://www.vozai.net/en/seo/notebooklm-free-competitor-product-research/) - Load reviews and listings into one notebook to pull positioning, complaint patterns, and FAQs at zero cost
+- [Zero-cost product demand research stack](https://www.vozai.net/en/tool-comparisons/free-product-demand-research-google-trends-stack/) - Google Trends + free Keyword Planner + Bing Webmaster Tools instead of a $99/mo suite
 
 ### GEO (Generative Engine Optimization)
 
@@ -93,7 +95,7 @@
 
 - [Klaviyo](https://www.klaviyo.com/) - E-commerce email/SMS platform with AI-powered segmentation and automation. [Klaviyo Composer AI](https://www.vozai.net/en/email-crm/klaviyo-composer-ai-agent-campaigns/) | [Spring 2026 updates](https://www.vozai.net/en/email-crm/klaviyo-spring-2026-rcs-ai-audience/) | [K:AI Composer + Customer Agent deep dive](https://www.vozai.net/en/email-crm/klaviyo-kai-spring-2026-new-features/) | [Klaviyo vs Mailchimp vs Omnisend](https://www.vozai.net/en/tool-comparisons/ai-email-marketing-tools/) | [Klaviyo × Anthropic Claude agentic workflows](https://www.vozai.net/en/email-crm/klaviyo-anthropic-claude-agentic-email-workflows/) | [Agent Guidance: guardrails for autonomous agents](https://www.vozai.net/en/email-crm/klaviyo-agent-guidance-brand-control-autonomous-crm/) | [Customer Agent omnichannel setup](https://www.vozai.net/en/email-crm/klaviyo-customer-agent-omnichannel-retail-skills/) | [Klaviyo vs Brevo 2026](https://www.vozai.net/en/email-crm/klaviyo-vs-brevo-2026/) | [Klaviyo vs Mailchimp vs Attentive 2026](https://www.vozai.net/en/tool-comparisons/klaviyo-vs-mailchimp-vs-attentive-2026/)
 - [Omnisend](https://www.omnisend.com/) - E-commerce marketing automation. [Klaviyo vs Omnisend vs Brevo](https://www.vozai.net/en/tool-comparisons/klaviyo-omnisend-brevo-ai-email-platforms-2026/) | [AI Segment Builder natural language guide](https://www.vozai.net/en/email-crm/omnisend-ai-segment-builder-natural-language/)
-- [Brevo](https://www.brevo.com/) - Email, SMS, and chat marketing platform. [2026 email platform comparison](https://www.vozai.net/en/tool-comparisons/klaviyo-omnisend-brevo-ai-email-platforms-2026/)
+- [Brevo](https://www.brevo.com/) - Email, SMS, and chat marketing platform. [2026 email platform comparison](https://www.vozai.net/en/tool-comparisons/klaviyo-omnisend-brevo-ai-email-platforms-2026/) | [Free-tier comparison after the 2026 cuts](https://www.vozai.net/en/email-crm/free-email-marketing-tiers-2026-brevo-omnisend/)
 - [Mailchimp](https://mailchimp.com/) - Email marketing platform with AI features. [Klaviyo vs Mailchimp AI](https://www.vozai.net/en/tool-comparisons/klaviyo-vs-mailchimp-ai-features/) | [Analytics AI guide: natural language ROI queries (May 2026)](https://www.vozai.net/en/email-crm/mailchimp-analytics-ai-ecommerce-guide/)
 - [ActiveCampaign](https://www.activecampaign.com/) - Marketing automation with AI orchestration for ecommerce. [AI orchestration guide](https://www.vozai.net/en/email-crm/activecampaign-ai-orchestration-ecommerce/)
 - [HubSpot](https://www.hubspot.com/) - CRM and marketing automation platform. [Breeze AI for ecommerce](https://www.vozai.net/en/email-crm/hubspot-breeze-ai-ecommerce-guide/)
@@ -142,6 +144,7 @@
 - [Jasper](https://www.jasper.ai/) - AI content platform for marketing teams. [Jasper vs Copy.ai](https://www.vozai.net/en/tool-comparisons/jasper-vs-copy-ai-comparison/)
 - [Copy.ai](https://www.copy.ai/) - AI copywriting with workflow automation. [Copy.ai vs ChatGPT](https://www.vozai.net/en/tool-comparisons/copy-ai-vs-chatgpt-marketing/)
 - [Writesonic](https://writesonic.com/) - AI writer with SEO optimization. [Writesonic vs Jasper](https://www.vozai.net/en/tool-comparisons/writesonic-vs-jasper-2026/)
+- [Gemini API](https://aistudio.google.com/) - Free API key for scripted bulk content. [Bulk-generate listings on the free tier](https://www.vozai.net/en/seo/gemini-api-free-tier-bulk-listing-generation/) - script + free RPD math for thousands of draft listings overnight
 
 ### Open-Source / Local AI
 
@@ -155,6 +158,7 @@
 - [2026 AI marketing stack](https://www.vozai.net/en/tool-comparisons/ai-ecommerce-marketing-stack-2026/) - Complete AI tool stack for e-commerce marketing
 - [Claude Code weekly limit +50% sprint plan](https://www.vozai.net/en/tool-comparisons/claude-code-weekly-limit-boost-ecommerce-workflows/) - 8-week batch task list for cross-border DTC teams (May 13 to July 13, 2026)
 - [Claude for Small Business vs ChatGPT/Gemini/Copilot](https://www.vozai.net/en/tool-comparisons/anthropic-claude-small-business-ecommerce/) - How Anthropic's small-business launch stacks up
+- [Routing marketing tasks across free LLM tiers](https://www.vozai.net/en/tool-comparisons/free-llm-tiers-marketing-task-routing/) - Split work across ChatGPT, Claude, and Gemini free tiers to run daily copy at $0 without hitting any cap
 
 ## Product Photography & Video
 
@@ -167,6 +171,7 @@
 - [Shopify Tinker](https://www.shopify.com/) - Shopify's free AI creative suite. [Tinker vs Canva comparison](https://www.vozai.net/en/tool-comparisons/shopify-tinker-ai-creative-suite/)
 - [AI product photography for e-commerce](https://www.vozai.net/en/tool-comparisons/ai-product-photography-ecommerce/) - Cut costs and scale faster with AI-generated product photos
 - [AI image generator comparison 2026](https://www.vozai.net/en/tool-comparisons/ai-image-generators-ecommerce-comparison/) - Midjourney vs Firefly vs DALL-E for e-commerce
+- [Google AI Studio (Nano Banana)](https://aistudio.google.com/) - Free daily image quota via Gemini 2.5 Flash Image. [Batch product images for free](https://www.vozai.net/en/ads-copy/google-ai-studio-free-product-images-nano-banana/) - white-background, lifestyle, and try-on shots at zero cost
 
 ### AI Video & UGC Tools
 
@@ -180,6 +185,7 @@
 - [AI UGC video ads](https://www.vozai.net/en/ads-copy/ai-ugc-video-ads-ecommerce/) - Skip the creator, keep the conversions with AI-generated UGC
 - [AI virtual hosts for TikTok Shop](https://www.vozai.net/en/ads-copy/ai-virtual-host-tiktok-shop-livestream/) - Zero-barrier AI livestream selling for cross-border brands
 - [TikTok Symphony vs Meta vs Amazon video ads](https://www.vozai.net/en/tool-comparisons/tiktok-symphony-vs-meta-video-vs-amazon-video-ads/) - 2026 AI video ad tool comparison
+- [CapCut](https://www.capcut.com/) - Free AI script, text-to-speech, auto-captions, and short b-roll. [Free product videos for TikTok and Reels](https://www.vozai.net/en/ads-copy/capcut-free-ai-product-video-tiktok-reels/) - full zero-cost short-form workflow
 
 ## Fulfillment & Logistics
 
@@ -251,6 +257,7 @@
 ### Analytics & Attribution
 
 - [AI attribution tools comparison 2026](https://www.vozai.net/en/tool-comparisons/ai-attribution-tools-comparison-2026/) - Triple Whale vs Northbeam vs LayerFive: three technical approaches to fixing attribution inflation (25–40% platform overcount vs Shopify orders)
+- [Zero-cost conversion behavior stack](https://www.vozai.net/en/tool-comparisons/free-clarity-ga4-conversion-behavior-stack/) - Microsoft Clarity free heatmaps and session replay paired with GA4 to find where product and checkout pages leak
 
 ### Operations
 
@@ -259,6 +266,7 @@
 - [AI ad agents](https://www.vozai.net/en/ads-copy/ai-ads-agent-manage-campaigns/) - AI agents for managing ad campaigns across platforms
 - [Best AI SEO tools 2026](https://www.vozai.net/en/tool-comparisons/best-ai-seo-tools-2026/) - Top SEO tools with AI features
 - [AI review response tools 2026](https://www.vozai.net/en/tool-comparisons/ai-review-response-tools-2026-comparison/) - Alchemer vs Yotpo vs Birdeye vs Trustpilot compared
+- [Free multilingual listing translation](https://www.vozai.net/en/seo/free-multilingual-listing-translation-deepl-google/) - Stack DeepL Free and Google Translate free APIs for nearly 1M characters/month at zero cost
 
 ---
 
