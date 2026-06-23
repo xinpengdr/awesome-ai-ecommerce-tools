@@ -214,6 +214,7 @@
 - [Shopify vs WooCommerce 2026](https://www.vozai.net/en/tool-comparisons/shopify-vs-woocommerce-2026/) - Platform comparison with AI features
 - [Shopify SimGym](https://www.vozai.net/en/seo/shopify-simgym-ai-shopper-simulation/) - Test pricing and copy with AI shoppers before you launch
 - [Shopify Sidekick Winter 2026: proactive alerts, Pulse monitoring & checkout AI](https://www.vozai.net/en/seo/shopify-sidekick-winter-2026-merchant-guide/) - Sidekick upgraded from passive Q&A to active anomaly detection; dynamic payment ordering and two-step checkout
+- [Shopify Agentic Storefronts setup guide](https://stackarchitect.xyz/blog/shopify-agentic-storefronts-setup-guide-2026/) - Step-by-step developer implementation blueprint to make your product data schemas fully readable by autonomous AI shopping agents
 
 ### eBay
 
@@ -260,6 +261,8 @@
 
 - [AI attribution tools comparison 2026](https://www.vozai.net/en/tool-comparisons/ai-attribution-tools-comparison-2026/) - Triple Whale vs Northbeam vs LayerFive: three technical approaches to fixing attribution inflation (25–40% platform overcount vs Shopify orders)
 - [Zero-cost conversion behavior stack](https://www.vozai.net/en/tool-comparisons/free-clarity-ga4-conversion-behavior-stack/) - Microsoft Clarity free heatmaps and session replay paired with GA4 to find where product and checkout pages leak
+- [CAPI Shield open-source setup](https://stackarchitect.xyz/capi-shield/) - Free, self-hosted Meta Conversions API (CAPI) blueprint to fix server-side data tracking discrepancies and circumvent iOS ad-blocker drop-offs
+- [TikTok Events API server workflow](https://stackarchitect.xyz/tiktok-events-api-shopify/) - Zero-cost automated server-side tracking script for Shopify merchants using Make.com to eliminate browser attribution gaps
 
 ### Operations
 
