@@ -169,6 +169,7 @@
 - [Photoroom](https://www.photoroom.com/) - Industry-leading AI background removal and product photography. [AI photography tools comparison](https://www.vozai.net/en/tool-comparisons/ai-product-photography-tools-comparison/)
 - [Pebblely](https://www.pebblely.com/) - AI product photography with scene generation. [Tools comparison](https://www.vozai.net/en/tool-comparisons/ai-product-photography-tools-comparison/)
 - [Claid.ai](https://claid.ai/) - AI image enhancement and background generation. [Tools comparison](https://www.vozai.net/en/tool-comparisons/ai-product-photography-tools-comparison/)
+- [ClearCrowds](https://www.clearcrowds.com/) - AI photo cleanup for product, listing, and marketplace images, including object removal, shadow cleanup, and batch editing.
 - [Amazon Dynamic Canvas](https://sellercentral.amazon.com/) - Free AI visual workspace inside Amazon Seller Central. [Tutorial](https://www.vozai.net/en/ads-copy/amazon-dynamic-canvas-ai-listing-visuals/)
 - [Shopify Tinker](https://www.shopify.com/) - Shopify's free AI creative suite. [Tinker vs Canva comparison](https://www.vozai.net/en/tool-comparisons/shopify-tinker-ai-creative-suite/)
 - [AI product photography for e-commerce](https://www.vozai.net/en/tool-comparisons/ai-product-photography-ecommerce/) - Cut costs and scale faster with AI-generated product photos
