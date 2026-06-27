@@ -255,6 +255,7 @@
 - [AI multilingual chatbot](https://www.vozai.net/en/email-crm/ai-customer-service-multilingual-chatbot/) - Build multilingual support with Tidio, Intercom, and Zendesk
 - [AI customer segmentation](https://www.vozai.net/en/email-crm/ai-customer-segmentation/) - Segment customers with machine learning
 - [eDesk vs Gorgias vs Freshdesk](https://www.vozai.net/en/tool-comparisons/edesk-vs-gorgias-ai-customer-support-2026/) - AI customer support tools for ecommerce compared in 2026
+- [AI refund automation guardrails](https://www.vozai.net/en/email-crm/ai-refund-automation-multilingual-guardrails/) - When multilingual self-service can issue refunds safely: amount cap, confidence threshold, and fraud controls for Gorgias, Intercom Fin, and Zendesk
 
 ### Analytics & Attribution
 
