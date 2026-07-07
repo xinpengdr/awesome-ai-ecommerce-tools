@@ -32,6 +32,7 @@
 - [Google Search Console](https://search.google.com/search-console/) - Free tool for monitoring search performance and indexing status. [Tracking AI referral traffic](https://www.vozai.net/en/seo/track-ai-llm-referral-traffic/) | [Generative AI performance reports & opt-out toggle (June 2026)](https://www.vozai.net/en/seo/gsc-generative-ai-performance-reports-opt-out/)
 - [AI competitor SEO analysis](https://www.vozai.net/en/seo/ai-competitor-seo-analysis/) - Turn raw competitor data into actionable SEO strategy with AI
 - [AI keyword research guide](https://www.vozai.net/en/seo/ai-keyword-research-guide/) - AI-powered keyword research workflow for e-commerce sellers
+- [AI product FAQ generation for SEO](https://www.vozai.net/en/seo/ai-product-faq-generation-seo/) - Mine questions from reviews, tickets, and search data, generate FAQ pages at scale with FAQPage schema for featured snippets and AI Overviews
 - [AI meta description generator](https://www.vozai.net/en/seo/ai-meta-description-generator/) - Generate optimized meta descriptions at scale using AI
 - [Fix over-optimized SEO content](https://www.vozai.net/en/seo/seo-content-optimization-with-ai/) - How to fix AI-generated content that stuffs keywords
 - [Sub-$100 SEO toolkit for a solo store](https://www.vozai.net/en/tool-comparisons/budget-seo-tools-under-100-solo-store-2026/) - SE Ranking vs Keysearch vs Mangools vs LowFruits, matched to the job
@@ -111,6 +112,7 @@
 - [AI post-purchase email sequence](https://www.vozai.net/en/email-crm/ai-post-purchase-email-sequence/) - Maximize repeat purchases after first order
 - [AI winback email flow](https://www.vozai.net/en/email-crm/ai-winback-email-flow/) - Re-engage lapsed customers
 - [AI predictive churn scoring](https://www.vozai.net/en/email-crm/ai-predictive-churn-email/) - Identify at-risk customers before they leave
+- [AI loyalty program personalization](https://www.vozai.net/en/email-crm/ai-loyalty-program-personalization-ecommerce/) - Dynamic point multipliers, redemption timing, and behavioral tiering with Yotpo Loyalty, Smile.io, LoyaltyLion, and Stamped + Klaviyo integration
 
 ### Email Optimization
 
@@ -216,6 +218,7 @@
 - [Shopify SimGym](https://www.vozai.net/en/seo/shopify-simgym-ai-shopper-simulation/) - Test pricing and copy with AI shoppers before you launch
 - [Shopify Sidekick Winter 2026: proactive alerts, Pulse monitoring & checkout AI](https://www.vozai.net/en/seo/shopify-sidekick-winter-2026-merchant-guide/) - Sidekick upgraded from passive Q&A to active anomaly detection; dynamic payment ordering and two-step checkout
 - [Shopify Spring '26 Agentic Storefronts: AI channel visibility tracking](https://www.vozai.net/en/seo/shopify-spring-26-agentic-storefronts-ai-channel-tracking/) - Track product impressions, clicks, and orders from ChatGPT and Microsoft Copilot inside the admin
+- [Free AI Shopify apps for small stores 2026](https://www.vozai.net/en/tool-comparisons/free-ai-shopify-apps-small-store-2026/) - Shopify Magic, Tidio Lyro, Omnisend, and Klaviyo free tiers: real limits and a working zero-budget AI stack
 
 ### eBay
 
@@ -261,9 +264,11 @@
 
 - [Intercom Fin for E-commerce](https://www.intercom.com/) - AI agent that handles pre-purchase discovery and post-purchase support in one conversation thread (launched May 8, 2026; 10% conversation-to-order rate, AOV +20%). [How AI turns support into a sales channel](https://www.vozai.net/en/email-crm/intercom-fin-ecommerce-ai-support-guide/)
 - [AI multilingual chatbot](https://www.vozai.net/en/email-crm/ai-customer-service-multilingual-chatbot/) - Build multilingual support with Tidio, Intercom, and Zendesk
+- [AI pre-purchase chatbot for conversion](https://www.vozai.net/en/ads-copy/ai-chatbot-pre-purchase-conversion/) - Turn product-page questions into orders with Tidio Lyro, Rep AI, Gobot, and Octane AI (15-30% conversion lift)
 - [AI customer segmentation](https://www.vozai.net/en/email-crm/ai-customer-segmentation/) - Segment customers with machine learning
 - [eDesk vs Gorgias vs Freshdesk](https://www.vozai.net/en/tool-comparisons/edesk-vs-gorgias-ai-customer-support-2026/) - AI customer support tools for ecommerce compared in 2026
 - [AI refund automation guardrails](https://www.vozai.net/en/email-crm/ai-refund-automation-multilingual-guardrails/) - When multilingual self-service can issue refunds safely: amount cap, confidence threshold, and fraud controls for Gorgias, Intercom Fin, and Zendesk
+- [AI returns management automation](https://www.vozai.net/en/seo/ai-returns-management-ecommerce-automation/) - Full reverse logistics chain from RMA to restocking with Loop Returns, ReturnGO, AfterShip, and Optoro (40-70% automatable per McKinsey)
 
 ### Analytics & Attribution
 
@@ -278,6 +283,9 @@
 - [AI ad agents](https://www.vozai.net/en/ads-copy/ai-ads-agent-manage-campaigns/) - AI agents for managing ad campaigns across platforms
 - [Best AI SEO tools 2026](https://www.vozai.net/en/tool-comparisons/best-ai-seo-tools-2026/) - Top SEO tools with AI features
 - [AI review response tools 2026](https://www.vozai.net/en/tool-comparisons/ai-review-response-tools-2026-comparison/) - Alchemer vs Yotpo vs Birdeye vs Trustpilot compared
+- [AI review summarization for product pages](https://www.vozai.net/en/tool-comparisons/ai-review-summary-tools-product-conversion/) - Yotpo vs Judge.me vs Loox vs Stamped: AI review summaries that lift add-to-cart rates and catch fake reviews
+- [AI dynamic repricing tools](https://www.vozai.net/en/tool-comparisons/ai-dynamic-repricing-amazon-shopify/) - Aura vs BQool (Amazon) and Prisync vs Competera (Shopify): margin guardrails, repricing logic, and 20-25% revenue lift data
+- [AI size & fit recommendation](https://www.vozai.net/en/seo/ai-size-fit-recommendation-fashion-returns/) - Cut fashion return rates in half with Kiwi Sizing, True Fit, Fit Analytics, and Bold Metrics + cross-border sizing pitfalls
 - [AI tools for cross-border e-commerce 2026: a map across 9 business functions](https://www.vozai.net/en/tool-comparisons/cross-border-ecommerce-ai-tools-2026/) - Function-by-function overview from sourcing to post-sale support
 - [Free multilingual listing translation](https://www.vozai.net/en/seo/free-multilingual-listing-translation-deepl-google/) - Stack DeepL Free and Google Translate free APIs for nearly 1M characters/month at zero cost
 
