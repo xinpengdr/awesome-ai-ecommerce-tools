@@ -186,6 +186,7 @@
 - [AI product photography for e-commerce](https://www.vozai.net/en/tool-comparisons/ai-product-photography-ecommerce/) - Cut costs and scale faster with AI-generated product photos
 - [AI image generator comparison 2026](https://www.vozai.net/en/tool-comparisons/ai-image-generators-ecommerce-comparison/) - Midjourney vs Firefly vs DALL-E for e-commerce
 - [Google AI Studio (Nano Banana)](https://aistudio.google.com/) - Free daily image quota via Gemini 2.5 Flash Image. [Batch product images for free](https://www.vozai.net/en/ads-copy/google-ai-studio-free-product-images-nano-banana/) - white-background, lifestyle, and try-on shots at zero cost
+- [Lunalisa](https://luna-lisa.art) - AI creative workspace with 13 image models for product photography, marketing posters, and white-background listing images, plus image-to-video extension. Freemium.
 
 ### AI Video & UGC Tools
 
