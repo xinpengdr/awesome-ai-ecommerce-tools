@@ -249,6 +249,7 @@
 - [Alibaba Accio Work](https://www.vozai.net/en/seo/alibaba-accio-work-ai-agent-ecommerce/) - Alibaba's AI agent for store management
 - [AI shopping agents roundup](https://www.vozai.net/en/tool-comparisons/best-ai-shopping-agent-tools/) - AI-powered shopping assistants compared
 - [Walmart Seller Analytics search visibility score](https://www.vozai.net/en/seo/walmart-search-visibility-score-analytics/) - Read the new real-time dashboard and fix low-visibility items
+- [FlipWorth](https://flipworth.silentdirectivellc.com/?utm_source=awesome-ai-ecommerce-tools&utm_medium=resource-directory) - Photo-based resale price research for secondhand sellers: snap an item and get an estimated resale range, a buy or pass verdict, a suggested list price and where to sell it. Free to try in the browser, also on iPhone.
 
 ## Guides & Deep Dives
 
