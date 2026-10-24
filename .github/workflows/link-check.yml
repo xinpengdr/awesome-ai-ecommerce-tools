@@ -96,6 +96,26 @@ jobs:
             gh pr comment "$PR_NUMBER" --body-file .link-check/comment.md
           fi
 
+      - name: Clear a stale failure comment
+        # If an earlier push failed and this one passes, rewrite the old comment
+        # instead of leaving a red warning on a fixed PR. No comment is created
+        # when nothing failed before.
+        if: always() && steps.extract.outputs.count != '0' && steps.lychee.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          marker='<!-- link-check-pr -->'
+          existing=$(gh api --paginate "repos/${REPO}/issues/${PR_NUMBER}/comments" \
+            --jq ".[] | select(.body | startswith(\"${marker}\")) | .id" | head -n 1)
+
+          if [ -n "$existing" ]; then
+            printf '%s\n### Links checked\n\nAll links added by this pull request resolve.\n' "$marker" > .link-check/comment.md
+            gh api -X PATCH "repos/${REPO}/issues/comments/${existing}" -F body=@.link-check/comment.md > /dev/null
+            echo "Marked the previous failure comment as resolved."
+          fi
+
   full-scan:
     name: Full README scan
     if: github.event_name != 'pull_request'
