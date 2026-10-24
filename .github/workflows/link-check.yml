@@ -70,7 +70,8 @@ jobs:
           output: .link-check/report.md
 
       - name: Comment the failures
-        if: steps.extract.outputs.count != '0' && steps.lychee.outputs.exit_code != '0'
+        # custom `if` gets an implicit success(), so re-run explicitly after the failure
+        if: always() && steps.lychee.outcome == 'failure'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
@@ -116,7 +117,7 @@ jobs:
           output: .link-check/report.md
 
       - name: Open or update the tracking issue
-        if: steps.lychee.outputs.exit_code != '0'
+        if: always() && (steps.lychee.outcome == 'failure' || steps.lychee.outputs.exit_code != '0')
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
