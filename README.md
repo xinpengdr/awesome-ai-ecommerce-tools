@@ -336,4 +336,4 @@ Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-- [CI link check test](https://github.com/xinpengdr/awesome-ai-ecommerce-tools/blob/main/this-page-does-not-exist-12345) - Temporary entry to verify the dead-link workflow; this PR gets closed.
+- [CI link check test](https://github.com/xinpengdr/awesome-ai-ecommerce-tools) - Temporary entry to verify the dead-link workflow; this PR gets closed.
