@@ -279,6 +279,7 @@
 ### Agentic Commerce
 
 - [Agentic commerce protocols: UCP vs ACP vs Shopify Catalog](https://www.vozai.net/en/seo/agentic-commerce-protocols-ucp-acp-catalog/) - Protocol comparison for AI shopping agents
+- [BirkinBagStock](https://birkinbagstock.com/) - Independent Hermès resale price and inventory index with a public API and remote MCP for shopping agents. [Agent-readiness check](https://birkinbagstock.com/agent-ready)
 - [Google Universal Commerce Protocol](https://www.vozai.net/en/seo/google-ucp-ai-shopping-protocol/) - Google's standard for AI-readable product data
 - [Is your product data ready for AI?](https://www.vozai.net/en/seo/agentic-commerce-seo-product-feeds/) - Product feed optimization for agentic commerce
 - [Amazon Bedrock AgentCore Payments](https://www.vozai.net/en/tool-comparisons/amazon-bedrock-agentcore-payments-ecommerce/) - Pricing your merchant API for the agent economy (MCP, REST, ACP, UCP integration paths)
