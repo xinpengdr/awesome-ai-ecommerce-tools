@@ -256,6 +256,7 @@
 
 - [Etsy native AI seller tools 2026: title suggestions, Writing Assistant & AI-creation disclosure](https://www.vozai.net/en/tool-comparisons/etsy-ai-seller-tools-2026-bulk-titles-disclosure/) - Search Visibility Dashboard AI title suggestions, buyer-message Writing Assistant, attribute suggestions, and how to word the Creativity Standards AI-creation disclosure correctly
 - [Etsy inside ChatGPT: listing optimization for semantic search](https://www.vozai.net/en/seo/etsy-chatgpt-app-listing-optimization/) - Why keyword-stuffed titles lose in conversational search and how to rewrite them
+- [Etsy Sales MCP](https://github.com/GeminiGeorge22/etsy-sales-mcp) - Open-source MCP server that lets an AI assistant pull Etsy search results by keyword, marketplace and category, plus daily sales counts and growth for any Etsy shop. Needs your own Apify API token.
 
 ### Other Marketplaces
 
