@@ -202,6 +202,7 @@
 - [HeyGen](https://www.heygen.com/) - AI avatar video generation. [UGC tools comparison](https://www.vozai.net/en/tool-comparisons/ai-ugc-video-tools-comparison-2026/)
 - [Arcads](https://www.arcads.ai/) - AI-generated UGC-style video ads. [UGC tools comparison](https://www.vozai.net/en/tool-comparisons/ai-ugc-video-tools-comparison-2026/)
 - [Creatify](https://www.creatify.ai/) - URL-to-video ad generation. [UGC tools comparison](https://www.vozai.net/en/tool-comparisons/ai-ugc-video-tools-comparison-2026/)
+- [RemakeThat](https://remakethat.com/) - Remake winning TikTok and Facebook videos into original faceless affiliate clips starring your AI creator.
 - [Orkas](https://orkas.ai/agents/video-studio/) - VideoStudio turns product briefs and assets into videos inside an open-source, local-first desktop AI workforce coordinated by a Commander.
 - [TikTok Symphony](https://ads.tiktok.com/business/creativecenter/tools/tiktok-symphony/pc/en) - TikTok's AI creative studio powered by Dreamina Seedance 2.0. [Reference to Video tutorial (product visual consistency)](https://www.vozai.net/en/ads-copy/tiktok-symphony-dreamina-reference-to-video/)
 - [TikTok AI Fashion Video Maker](https://seller.tiktok.com/) - Generate shoppable videos from a single product image. [Tutorial](https://www.vozai.net/en/ads-copy/tiktok-shop-ai-listing-video-maker/)
