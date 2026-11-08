@@ -193,6 +193,7 @@
 - [Amazon Dynamic Canvas](https://sellercentral.amazon.com/) - Free AI visual workspace inside Amazon Seller Central. [Tutorial](https://www.vozai.net/en/ads-copy/amazon-dynamic-canvas-ai-listing-visuals/)
 - [Shopify Tinker](https://www.shopify.com/) - Shopify's free AI creative suite. [Tinker vs Canva comparison](https://www.vozai.net/en/tool-comparisons/shopify-tinker-ai-creative-suite/)
 - [Lunalisa](https://luna-lisa.art) - AI creative workspace with 13 image models for product photography, marketing posters, and white-background listing images, plus image-to-video extension. Freemium.
+- [Imagera](https://imagera.ai/image/product-photography) - AI product photography from one product photo: studio, lifestyle, poster and marketplace images that keep the product exact, plus product reels. Paid plans from $19.99/month.
 - [AI product photography for e-commerce](https://www.vozai.net/en/tool-comparisons/ai-product-photography-ecommerce/) - Cut costs and scale faster with AI-generated product photos
 - [AI image generator comparison 2026](https://www.vozai.net/en/tool-comparisons/ai-image-generators-ecommerce-comparison/) - Midjourney vs Firefly vs DALL-E for e-commerce
 - [Google AI Studio (Nano Banana)](https://aistudio.google.com/) - Free daily image quota via Gemini 2.5 Flash Image. [Batch product images for free](https://www.vozai.net/en/ads-copy/google-ai-studio-free-product-images-nano-banana/) - white-background, lifestyle, and try-on shots at zero cost
