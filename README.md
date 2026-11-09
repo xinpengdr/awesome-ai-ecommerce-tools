@@ -208,6 +208,7 @@
 - [Google Veo 3 in Google Ads](https://ads.google.com/) - Free image-to-video built into Google Ads Asset Studio (rolled out May 6, 2026, all active accounts). [Video ad creation workflow](https://www.vozai.net/en/ads-copy/google-veo3-ads-video-creative-workflow/)
 - [Kling AI 3.0](https://klingai.com/) - AI video with reference-based product consistency across shots and native lip-sync in 5 languages (EN/ZH/JA/KO/ES). [Cross-border multilingual ad video guide](https://www.vozai.net/en/ads-copy/kling-ai-3-multilingual-video-ads-guide/)
 - [TalkPix.ai](https://www.talkpix.ai/) - Pay-as-you-go AI tool for converting single product photos into UGC-style video ads and generating talking photo videos without subscriptions.
+- [AdMakeAI](https://admakeai.com) - AI image ads in every Meta ratio and UGC-style 9:16 video ads with AI avatars, plus competitor ad research from the Meta Ad Library.
 - [AI UGC video ads](https://www.vozai.net/en/ads-copy/ai-ugc-video-ads-ecommerce/) - Skip the creator, keep the conversions with AI-generated UGC
 - [AI virtual hosts for TikTok Shop](https://www.vozai.net/en/ads-copy/ai-virtual-host-tiktok-shop-livestream/) - Zero-barrier AI livestream selling for cross-border brands
 - [TikTok Symphony vs Meta vs Amazon video ads](https://www.vozai.net/en/tool-comparisons/tiktok-symphony-vs-meta-video-vs-amazon-video-ads/) - 2026 AI video ad tool comparison
