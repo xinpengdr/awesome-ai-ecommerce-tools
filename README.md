@@ -263,6 +263,7 @@
 - [AI shopping agents roundup](https://www.vozai.net/en/tool-comparisons/best-ai-shopping-agent-tools/) - AI-powered shopping assistants compared
 - [Walmart Seller Analytics search visibility score](https://www.vozai.net/en/seo/walmart-search-visibility-score-analytics/) - Read the new real-time dashboard and fix low-visibility items
 - [FlipWorth](https://flipworth.silentdirectivellc.com/) - Photo-based resale price research for secondhand sellers: snap an item and get an estimated resale range, a buy or pass verdict, a suggested list price and where to sell it. Free to try in the browser, also on iPhone.
+- [PlushSource](https://plushsource.com) - Free, independent directory of 55 custom plush manufacturers for private-label sellers, with MOQ, lead times, OEM/ODM and claimed certifications from each maker's website; an open-source MCP server lets AI assistants search and compare them. [MCP server](https://github.com/quickman924/plushsource-mcp)
 
 ## Guides & Deep Dives
 
