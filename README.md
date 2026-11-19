@@ -190,6 +190,7 @@
 - [Pebblely](https://www.pebblely.com/) - AI product photography with scene generation. [Tools comparison](https://www.vozai.net/en/tool-comparisons/ai-product-photography-tools-comparison/)
 - [Claid.ai](https://claid.ai/) - AI image enhancement and background generation. [Tools comparison](https://www.vozai.net/en/tool-comparisons/ai-product-photography-tools-comparison/)
 - [ClearCrowds](https://www.clearcrowds.com/) - AI photo cleanup for product, listing, and marketplace images, including object removal, shadow cleanup, and batch editing.
+- [TinyTools Background Remover](https://tomaserben.com/free-tools/image-background-remover) - Free browser-local background removal for product and listing photos, no signup and no upload, handy for Etsy and marketplace white-background shots. (Disclosure: my own free tool.)
 - [Amazon Dynamic Canvas](https://sellercentral.amazon.com/) - Free AI visual workspace inside Amazon Seller Central. [Tutorial](https://www.vozai.net/en/ads-copy/amazon-dynamic-canvas-ai-listing-visuals/)
 - [Shopify Tinker](https://www.shopify.com/) - Shopify's free AI creative suite. [Tinker vs Canva comparison](https://www.vozai.net/en/tool-comparisons/shopify-tinker-ai-creative-suite/)
 - [Lunalisa](https://luna-lisa.art) - AI creative workspace with 13 image models for product photography, marketing posters, and white-background listing images, plus image-to-video extension. Freemium.
