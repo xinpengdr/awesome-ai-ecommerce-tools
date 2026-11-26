@@ -331,6 +331,7 @@
 - [Free multilingual listing translation](https://www.vozai.net/en/seo/free-multilingual-listing-translation-deepl-google/) - Stack DeepL Free and Google Translate free APIs for nearly 1M characters/month at zero cost
 - [AI fraud & chargeback prevention tools 2026](https://www.vozai.net/en/tool-comparisons/ai-ecommerce-fraud-prevention-tools-2026/) - SEON vs Signifyd vs Chargeflow vs Shufti: screening, chargeback guarantee, dispute recovery, and cross-border fit
 - [Content API shutdown: migrate to Merchant API](https://www.vozai.net/en/seo/google-content-api-shutdown-merchant-api-migration/) - Sunset Aug 18, 2026 with progressive errors from Sept 1; a 30-minute audit, what goes dark when items expire, and the extension request form
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 
 ---
 
